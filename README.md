@@ -31,7 +31,7 @@ Designed for Android & React Native developers who frequently work with multiple
 Install globally using npm:
 
 ```bash
-npm install -g run-avds
+npm install -g avds
 ```
 
 Ensure Android SDK tools are available in your `PATH`
