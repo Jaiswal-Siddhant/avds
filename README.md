@@ -10,7 +10,7 @@ Designed for Android & React Native developers who frequently work with multiple
 
 ## 🎥 Demo
 
-![Open AVDs](./assets/demo.gif)
+[![demo.gif](https://i.postimg.cc/8Pk2bVPX/demo.gif)](https://postimg.cc/9zSgWK9y)
 
 ---
 
